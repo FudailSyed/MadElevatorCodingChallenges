@@ -1,0 +1,14 @@
+C:\Users\MrRio\Documents\Projects\MadElevatorCodingChallenge\C# Coding Challenge\obj\Debug\net10.0\C# Coding Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrRio\Documents\Projects\MadElevatorCodingChallenge\C# Coding Challenge\obj\Debug\net10.0\C# Coding Challenge.AssemblyInfoInputs.cache
+C:\Users\MrRio\Documents\Projects\MadElevatorCodingChallenge\C# Coding Challenge\obj\Debug\net10.0\C# Coding Challenge.AssemblyInfo.cs
+C:\Users\MrRio\Documents\Projects\MadElevatorCodingChallenge\C# Coding Challenge\obj\Debug\net10.0\C# Coding Challenge.csproj.CoreCompileInputs.cache
+C:\Users\MrRio\Documents\Projects\MadElevatorCodingChallenge\C# Coding Challenge\bin\Debug\net10.0\C# Coding Challenge.exe
+C:\Users\MrRio\Documents\Projects\MadElevatorCodingChallenge\C# Coding Challenge\bin\Debug\net10.0\C# Coding Challenge.deps.json
+C:\Users\MrRio\Documents\Projects\MadElevatorCodingChallenge\C# Coding Challenge\bin\Debug\net10.0\C# Coding Challenge.runtimeconfig.json
+C:\Users\MrRio\Documents\Projects\MadElevatorCodingChallenge\C# Coding Challenge\bin\Debug\net10.0\C# Coding Challenge.dll
+C:\Users\MrRio\Documents\Projects\MadElevatorCodingChallenge\C# Coding Challenge\bin\Debug\net10.0\C# Coding Challenge.pdb
+C:\Users\MrRio\Documents\Projects\MadElevatorCodingChallenge\C# Coding Challenge\obj\Debug\net10.0\C# Coding Challenge.dll
+C:\Users\MrRio\Documents\Projects\MadElevatorCodingChallenge\C# Coding Challenge\obj\Debug\net10.0\refint\C# Coding Challenge.dll
+C:\Users\MrRio\Documents\Projects\MadElevatorCodingChallenge\C# Coding Challenge\obj\Debug\net10.0\C# Coding Challenge.pdb
+C:\Users\MrRio\Documents\Projects\MadElevatorCodingChallenge\C# Coding Challenge\obj\Debug\net10.0\C# Coding Challenge.genruntimeconfig.cache
+C:\Users\MrRio\Documents\Projects\MadElevatorCodingChallenge\C# Coding Challenge\obj\Debug\net10.0\ref\C# Coding Challenge.dll
