@@ -12,3 +12,4 @@ C:\Users\MrRio\Documents\Projects\MadElevatorCodingChallenge\C# Coding Challenge
 C:\Users\MrRio\Documents\Projects\MadElevatorCodingChallenge\C# Coding Challenge\obj\Debug\net10.0\C# Coding Challenge.pdb
 C:\Users\MrRio\Documents\Projects\MadElevatorCodingChallenge\C# Coding Challenge\obj\Debug\net10.0\C# Coding Challenge.genruntimeconfig.cache
 C:\Users\MrRio\Documents\Projects\MadElevatorCodingChallenge\C# Coding Challenge\obj\Debug\net10.0\ref\C# Coding Challenge.dll
+C:\Users\MrRio\Documents\Projects\MadElevatorCodingChallenge\C# Coding Challenge\obj\Debug\net10.0\C# Coding Challenge.sourcelink.json

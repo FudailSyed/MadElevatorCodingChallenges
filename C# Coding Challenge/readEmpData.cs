@@ -82,6 +82,43 @@ class Program
             Console.WriteLine($"Error accessing file: {ex.Message}");
         }
        
+    //Task 4
+    //Ask User if they want to add a new Employee
+    Console.WriteLine("Do you want to add a new employee? (yes/no)");
+    //read their answer and save in a var
+    string userAns = Console.ReadLine();
+
+    //if the ans is yes then ask for employee data
+    if (userAns.ToLower() == "yes")
+        {
+            Console.Write("Enter Employee ID: ");
+            int Id = int.Parse(Console.ReadLine());
+            Console.Write("Enter First Name: ");
+            string firstName = Console.ReadLine();  
+            Console.Write("Enter Last Name: ");
+            string lastName = Console.ReadLine();
+            Console.Write("Enter Department: ");   
+            string department = Console.ReadLine();
+            Console.Write("Enter Salary: ");
+            decimal salary = decimal.Parse(Console.ReadLine());
+
+            //create a string to hold the data in the csv format
+            string newEmployee = ($"{Id},{firstName},{lastName},{department},{salary}");
+
+            //using streamwriter and telling it to add the data into the employees.csv file
+            using (StreamWriter sw = new StreamWriter("employees.csv", true))
+            {
+                //write the data from newEmployee into the "sw" which is the employees.csv file.
+                sw.WriteLine(newEmployee);
+            }
+
+
+        }
+
+        else
+        {
+            Console.WriteLine("Ok, no new employees will be added.");
+        }
 
     }
 
